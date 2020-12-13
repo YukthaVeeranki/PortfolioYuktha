@@ -1,0 +1,22 @@
+body {
+	margin: auto; border: 0;
+}
+
+body {
+  margin: auto;
+}
+
+img {
+  
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+
+  display: block;
+	margin-left: auto;
+	margin-right: auto;
+  border-radius: 8px;
+  height:250px;
+  width: 200px;
+}
+
